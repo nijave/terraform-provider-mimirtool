@@ -35,5 +35,3 @@ resource "mimirtool_ruler_namespace" "demo" {
 ### Read-Only
 
 - `id` (String) The ID of this resource.
-
-
