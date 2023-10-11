@@ -1,6 +1,6 @@
 module github.com/ovh/terraform-provider-mimirtool
 
-go 1.19
+go 1.21
 
 require (
 	github.com/grafana/mimir v0.0.0-20230202150046-27698f399fc9
