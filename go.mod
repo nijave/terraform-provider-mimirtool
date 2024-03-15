@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/grafana/mimir v0.0.0-20230202150046-27698f399fc9
-	github.com/hashicorp/terraform-plugin-docs v0.17.0
+	github.com/hashicorp/terraform-plugin-docs v0.18.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.33.0
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
 )
