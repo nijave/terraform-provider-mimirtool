@@ -80,7 +80,7 @@ require (
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/prometheus/prometheus v1.8.2-0.20220620125440-d7e7b8e04b5e // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
-	github.com/sirupsen/logrus v1.9.0 // indirect
+	github.com/sirupsen/logrus v1.9.1 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/stretchr/testify v1.8.2 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
