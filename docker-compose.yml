@@ -1,7 +1,4 @@
-version: '3'
-
 services:
-
   mimir:
     image: grafana/mimir:${MIMIR_VERSION}
     # We don't want to conflict with possible other container
